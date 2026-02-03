@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using GroceryListApi.Models;
+using GroceryListApiDotnet.Models;
 
-namespace GroceryListApi.Data
+namespace GroceryListApiDotnet.Data
 {
     public class AppDbContext : DbContext
     {

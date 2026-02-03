@@ -1,4 +1,4 @@
-namespace GroceryListApi.Models
+namespace GroceryListApiDotnet.Models
 {
     public class GroceryItem
     {

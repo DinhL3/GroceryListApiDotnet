@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using YourAppName.Data;
-using YourAppName.Models;
+using GroceryListApiDotnet.Data;
+using GroceryListApiDotnet.Models;
 
-namespace YourAppName.Controllers
+namespace GroceryListApiDotnet.Controllers
 {
     [Route("api/[controller]")]  // Like @RequestMapping in Spring Boot
     [ApiController]              // Similar to @RestController
